@@ -1,0 +1,19 @@
+/* styles.css */
+.todo-list {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.todo-item {
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.todo-input {
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 16px;
+  width: 100%;
+  box-sizing: border-box;
+}
